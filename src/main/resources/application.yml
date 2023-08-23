@@ -1,0 +1,7 @@
+twilio:
+  account_sid: ACbd96d4e76c8848f843a9638afc8c64b4
+  auth_token: 7e086b8ffac83b0e9f66341ec5119822
+  trial_number: +14706885290
+
+server:
+  port: 2020
